@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "977866614848",
+    "project_id": "sekobanashi",
+    "storage_bucket": "sekobanashi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977866614848:android:e1fcc702abca9fe93c17a5",
+        "android_client_info": {
+          "package_name": "com.example.sekobanashi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977866614848-ppb63mbkj6i5g5170c5oriuloi5aasdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sekobanashi",
+            "certificate_hash": "9f9d472b0691956f2e3d8bcbe4960cdfe188fb1a"
+          }
+        },
+        {
+          "client_id": "977866614848-9fsftvplb2pims6o7gjv1vta1e8dskij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4ZE7f5nGV5EL_IGk10MqW5DxN87FSBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977866614848-9fsftvplb2pims6o7gjv1vta1e8dskij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
