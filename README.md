@@ -14,9 +14,9 @@ A Chat-Bot Android Application.
 # Tech Stack Used
 
 1. Kotlin
-2. XML
+2. Firebase
 3. Android Studio
-4. Firebase
+4. XML
 
 # Concepts Used
 
